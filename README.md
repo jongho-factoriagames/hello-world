@@ -18,4 +18,9 @@ test444
 test555
 
 test666
+<<<<<<< HEAD
 test777
+=======
+
+test7777
+>>>>>>> origin/branch
